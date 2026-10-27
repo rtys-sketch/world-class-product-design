@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "artifact": {
+    "name": "",
+    "revision": "",
+    "date": "",
+    "owner": "",
+    "scope": "",
+    "out_of_scope": []
+  },
+  "context": {
+    "purpose": "",
+    "audiences": [],
+    "roles": [],
+    "high_value_tasks": [],
+    "platforms": [],
+    "content_model": [],
+    "constraints": [],
+    "success_criteria": [],
+    "assumptions": []
+  },
+  "evidence": {
+    "allowed_labels": [
+      "NORM",
+      "RESEARCH",
+      "PRINCIPLE",
+      "OBSERVATION",
+      "JUDGMENT",
+      "TREND",
+      "EXPERIMENT"
+    ],
+    "records": []
+  },
+  "research": {
+    "question": "",
+    "references": [],
+    "transfer_tests": []
+  },
+  "design_thesis": {
+    "statement": "",
+    "product_genome": [],
+    "art_direction_coordinates": [],
+    "signature_mechanisms": []
+  },
+  "directions": [],
+  "comparison": {
+    "criteria": [],
+    "selected_direction": "",
+    "rationale": "",
+    "accepted_tradeoffs": []
+  },
+  "existing_product_inventory": {
+    "screens": [],
+    "flows": [],
+    "components": [],
+    "identity_elements": [],
+    "functional_invariants": []
+  },
+  "decisions": [],
+  "departures": [],
+  "pwa": {
+    "status": "not-assessed",
+    "detection_evidence": [],
+    "capability_contract": [],
+    "back_contract": [],
+    "cache_and_data_contract": [],
+    "surfaces": []
+  },
+  "critique": {
+    "perspectives": [
+      "Creative Director",
+      "Principal Product Designer",
+      "Senior UX Designer",
+      "Typography Specialist",
+      "Motion Designer",
+      "Accessibility Expert",
+      "Frontend Engineer",
+      "End User"
+    ],
+    "user_evidence_status": "user-proxy",
+    "issues": []
+  },
+  "scorecard": {
+    "name": "world-class-product-design-comparative-100",
+    "status": "unverified",
+    "evidence_coverage": "",
+    "blocking_gates": [],
+    "criteria": [
+      {
+        "id": "premium-perception",
+        "weight": 12,
+        "rating": null,
+        "weighted_points": null,
+        "evidence_status": "unverified",
+        "rationale": ""
+      },
+      {
+        "id": "visual-originality",
+        "weight": 8,
+        "rating": null,
+        "weighted_points": null,
+        "evidence_status": "unverified",
+        "rationale": ""
+      },
+      {
+        "id": "composition",
+        "weight": 10,
+        "rating": null,
+        "weighted_points": null,
+        "evidence_status": "unverified",
+        "rationale": ""
+      },
+      {
+        "id": "typography",
+        "weight": 10,
+        "rating": null,
+        "weighted_points": null,
+        "evidence_status": "unverified",
+        "rationale": ""
+      },
+      {
+        "id": "color-harmony",
+        "weight": 7,
+        "rating": null,
+        "weighted_points": null,
+        "evidence_status": "unverified",
+        "rationale": ""
+      },
+      {
+        "id": "visual-hierarchy",
+        "weight": 10,
+        "rating": null,
+        "weighted_points": null,
+        "evidence_status": "unverified",
+        "rationale": ""
+      },
+      {
+        "id": "interaction-quality",
+        "weight": 10,
+        "rating": null,
+        "weighted_points": null,
+        "evidence_status": "unverified",
+        "rationale": ""
+      },
+      {
+        "id": "information-architecture",
+        "weight": 8,
+        "rating": null,
+        "weighted_points": null,
+        "evidence_status": "unverified",
+        "rationale": ""
+      },
+      {
+        "id": "consistency",
+        "weight": 7,
+        "rating": null,
+        "weighted_points": null,
+        "evidence_status": "unverified",
+        "rationale": ""
+      },
+      {
+        "id": "motion-quality",
+        "weight": 5,
+        "rating": null,
+        "weighted_points": null,
+        "evidence_status": "unverified",
+        "rationale": ""
+      },
+      {
+        "id": "accessibility",
+        "weight": 8,
+        "rating": null,
+        "weighted_points": null,
+        "evidence_status": "unverified",
+        "rationale": ""
+      },
+      {
+        "id": "implementation-fidelity",
+        "weight": 5,
+        "rating": null,
+        "weighted_points": null,
+        "evidence_status": "unverified",
+        "rationale": ""
+      }
+    ],
+    "total_points": null
+  },
+  "validation": {
+    "artifact_context": "",
+    "environments": [],
+    "states": [],
+    "checks": [],
+    "defects": [],
+    "residual_risks": []
+  }
+}
